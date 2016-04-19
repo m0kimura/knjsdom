@@ -1,0 +1,29 @@
+{
+  "name": "knjsdom",
+  "description": "Kmrweb.net Dom Handring Library",
+  "keywords": [
+    "knjsdom",
+    "jquery",
+    "dom",
+    "javascript"
+  ],
+  "homepage": "http://www.kmrweb.net/server/index,html",
+  "license": "MIT",
+  "version": "0.1.0",
+  "author": {
+    "name": "michihiro kimura",
+    "email": "kimura@kmrweb.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.org/m0kimura/knjsdom.git"
+  },
+  "dependencies": {
+    "jsdom": "^3.1.2",
+    "knuty": "latest"
+  },
+  "engines": {
+    "node": ">=0.5.2"
+  },
+  "main": "./knjsdom.js"
+}
